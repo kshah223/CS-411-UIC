@@ -1,0 +1,8 @@
+Kalpkumar Shah
+Assignment 7
+CS 411
+
+Now for running my python file I didn't have any solution running on my laptop, so I used online compiler for running my program
+which is https://www.online-ide.com/online_python_compiler
+
+Now for this assignment I changed a little input file as for I was having trouble reading the file in a line so put everything in a new line and then running the code. Also when the wall and terminal state ends I used “%” symbol to show the end of it and before that added “,” so that I am aware where I should stop. I will be attaching the input file which is changed and it works great.
