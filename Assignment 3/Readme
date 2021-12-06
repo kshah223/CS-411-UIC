@@ -1,0 +1,6 @@
+Assignment 3
+Kalpkumar Shah
+
+So, as the code pretty much follows the way as stated in aima textbook I have made this code in python and any compiler can compile my code which is able to compile psutil which I believe is the version (2.1.4) not sure, but I guess this is the one to compile and then after it is compiled, we need to enter the input as a user. For python as stated in the document we can use python 2.7
+
+Instruction to run code is : python CS_411_Assignment_3_code.py
